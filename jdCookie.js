@@ -6,8 +6,6 @@
 let CookieJDs = [
   '',//账号一ck,例:pt_key=XXX;pt_pin=XXX;
   '',//账号二ck,例:pt_key=XXX;pt_pin=XXX;如有更多,依次类推
-  pt_key=AAJf6vHrADA_oLWYR4BCPV2xIOFIiKs1i7ggi_9l0fg8YqyemB5pjEIdNAXaeZRlL9EBCgDBiI0;
-  pt_pin=jd_7c09706b6820d;
 
 ]
 // 判断github action里面是否有京东ck
